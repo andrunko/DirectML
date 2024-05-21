@@ -1,3 +1,9 @@
+# Copyright (c) Microsoft Corporation.
+# Copyright (c) Collabora Limited.
+#
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
 import sys
 from pathlib import Path
 from typing import Union
